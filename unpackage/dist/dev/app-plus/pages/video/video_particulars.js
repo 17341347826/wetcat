@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"btn-back { width: ",[0,32],"; height: ",[0,59],"; position: absolute; top: 44px; margin-top: var(--status-bar-height); z-index: 2; margin-left: 10px; color: #9C9C9C; }\n",],undefined,{path:"./pages/video/video_particulars.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/video/video_particulars.wxml') } }));

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"uni-input-placeholder { color: #A3AEBD; text-indent: 1em }\n",],undefined,{path:"./pages/login/login.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/login/login.wxml') } }));

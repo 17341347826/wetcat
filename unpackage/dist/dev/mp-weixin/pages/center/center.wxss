@@ -1,0 +1,15 @@
+
+.postImage {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+.pay_click {
+	color: #FF8400;
+	font-size:38rpx;
+	float: right;
+	margin-top: 10rpx;
+	width: 30%;
+	text-align: right;
+}
+

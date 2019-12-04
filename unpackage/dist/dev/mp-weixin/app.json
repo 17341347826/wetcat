@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/about/about",
+    "pages/new/new",
+    "pages/new/recommend",
+    "pages/new/post",
+    "pages/particulars/particulars",
+    "pages/video/video",
+    "pages/video/video_particulars",
+    "pages/detail/detail",
+    "pages/list/list",
+    "pages/center/center",
+    "pages/center/pay",
+    "pages/login/login"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "WETCAT",
+    "navigationBarBackgroundColor": "#36465D",
+    "backgroundColor": "#EFEFEF"
+  },
+  "networkTimeout": {
+    "request": 30000
+  },
+  "usingComponents": {}
+}

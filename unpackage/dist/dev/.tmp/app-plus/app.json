@@ -1,0 +1,34 @@
+{
+  "pages": [
+    "pages/new/new",
+    "pages/about/about",
+    "pages/new/recommend",
+    "pages/new/post",
+    "pages/particulars/particulars",
+    "pages/video/video",
+    "pages/video/video_particulars",
+    "pages/detail/detail",
+    "pages/list/list",
+    "pages/center/center",
+    "pages/center/pay",
+    "pages/login/login"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "WETCAT",
+    "navigationBarBackgroundColor": "#36465D",
+    "backgroundColor": "#EFEFEF"
+  },
+  "networkTimeout": {
+    "request": 30000
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "kantu",
+  "compilerVersion": "2.3.7",
+  "usingComponents": {}
+}

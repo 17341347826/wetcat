@@ -1,0 +1,38 @@
+
+.title-active {
+	color: #36465D;
+}
+.scroll-view-item_H {
+	display: inline-block;
+	text-align: center;
+}
+.xhx {
+	height: 2px;
+	width: 18px;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAACCAYAAABPJGxCAAAALUlEQVQYV2M0dYvZzsjA6MrAwMDMQB/wl+E/wx5GU/e4PYz//zvQ0+L/DAwHAdI/CyjOfZjaAAAAAElFTkSuQmCC);
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	top: -6px;
+}
+.postText {
+	position: absolute;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	top: 166rpx;
+	padding: var(--status-bar-height);
+	margin: 112rpx;
+}
+.postInof {
+	font-size: 50rpx;
+	display: block;
+	margin: 0 auto 30rpx;
+	color: #36465D;
+}
+.postImage {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+

@@ -1,0 +1,53 @@
+
+.blogger-info {
+	width: 100%;
+	margin-top: 20rpx;
+	padding-bottom: 20rpx;
+	border-bottom: #EEEEEE 1px solid;
+}
+.blogger-photo {
+	width: 34px;
+	height: 34px;
+	border: 1rpx solid #555555;
+	margin-left: 40rpx;
+	float: left;
+}
+.blogger-name {
+	line-height: 34px;
+	font-size: 14px;
+	color: rgba(65, 65, 65, 1);
+	font-family: Hiragino Sans GB;
+	margin-left: 20rpx;
+	float: left;
+}
+.blog-title {
+	color: #4B4B4B;
+	font-weight: bold;
+	font-size: 18px;
+	width: 100%;
+	text-align: left;
+}
+.blog-content {
+	width: 100%;
+	color: #4B4B4B;
+	font-size: 13px;
+	text-align: left;
+}
+.guanzhu {
+	display: inline-block;
+	float: right;
+	color: #4294C7;
+	margin-right: 40rpx;
+}
+.zw-active {
+	color: #36465D;
+	border-bottom: ;
+}
+.blogger-photo {
+	width: 34px;
+	height: 34px;
+	border: 1rpx solid #555555;
+	margin: 0 20rpx 0 40rpx;
+	float: left;
+}
+

@@ -1,0 +1,78 @@
+
+.title-active {
+	color: #36465D;
+}
+.scroll-view-item_H {
+	display: inline-block;
+	text-align: center;
+}
+.xhx {
+	height: 2px;
+	width: 18px;
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAACCAYAAABPJGxCAAAALUlEQVQYV2M0dYvZzsjA6MrAwMDMQB/wl+E/wx5GU/e4PYz//zvQ0+L/DAwHAdI/CyjOfZjaAAAAAElFTkSuQmCC);
+	display: block;
+	margin: 0 auto;
+	position: relative;
+	top: -6px;
+}
+.blogger-info {
+	width: 100%;
+	margin-top: 20rpx;
+	padding-bottom: 20rpx;
+	border-bottom: #EEEEEE 1px solid;
+}
+.blogger-photo {
+	width: 34px;
+	height: 34px;
+	border: 1rpx solid #555555;
+	margin-left: 40rpx;
+	float: left;
+}
+.blogger-name {
+	line-height: 34px;
+	font-size: 14px;
+	color: rgba(65, 65, 65, 1);
+	font-family: Hiragino Sans GB;
+	margin-left: 20rpx;
+	float: left;
+}
+.blog-title {
+	color: #4B4B4B;
+	font-weight: bold;
+	font-size: 18px;
+	width: 100%;
+	text-align: left;
+}
+.blog-content {
+	width: 100%;
+	color: #4B4B4B;
+	font-size: 13px;
+	text-align: left;
+}
+.guanzhu {
+	display: inline-block;
+	float: right;
+	color: #4294C7;
+	margin-right: 40rpx;
+}
+.postText {
+	position: absolute;
+	-webkit-flex-wrap: wrap;
+	    -ms-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	top: 166rpx;
+	padding: var(--status-bar-height);
+	margin: 112rpx;
+}
+.postInof {
+	font-size: 50rpx;
+	display: block;
+	margin: 0 auto 30rpx;
+	color: #36465D;
+}
+.postImage {
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
+

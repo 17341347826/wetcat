@@ -1,0 +1,12 @@
+
+.btn-back {
+	width: 32rpx;
+	height: 59rpx;
+	position: absolute;
+	top: 44px;
+	margin-top: var(--status-bar-height);
+	z-index: 2;
+	margin-left: 10px;
+	color: #9C9C9C;
+}
+

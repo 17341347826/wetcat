@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "视频",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "",
+        "fontSrc": "/static/icon/iconfont.ttf",
+        "fontSize": "22px",
+        "float": "right"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
